@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B6BB1A30-422A-A04E-EAEE-F2839D1A5B0A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GRIPReplica",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
